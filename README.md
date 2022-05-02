@@ -27,9 +27,9 @@
 
 ## Projects
 
-[<a href="https://github.com/brunogleite/Health-UI-landing-page">Health UI Kit Landing Page</a>]
-[<a href="https://github.com/brunogleite/movie-app-reactjs-chakraUI">Entertainment Web App</a>]
-[<a href="https://github.com/brunogleite/product-feedback-ReactJS-ChakraUI">Product Feedback Web App</a>]
+<a href="https://github.com/brunogleite/Health-UI-landing-page">Health UI Kit Landing Page</a>
+<a href="https://github.com/brunogleite/movie-app-reactjs-chakraUI">Entertainment Web App</a>
+<a href="https://github.com/brunogleite/product-feedback-ReactJS-ChakraUI">Product Feedback Web App</a>
 
 
 <br />
