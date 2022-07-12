@@ -14,6 +14,7 @@
 <img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="ChakraUI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
 <img align="left" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img align="left" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 <br />
 
@@ -34,6 +35,8 @@
 
 <br />
 <br />
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={brunogleite}
 
 ---
 
