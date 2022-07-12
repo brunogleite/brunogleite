@@ -36,7 +36,8 @@
 <br />
 <br />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={brunogleite}
+<img align="left" alt="NextJS" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+
 
 ---
 
