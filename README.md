@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruno 👋
 
 
-## I'm a Front-End Developer!!
+## I'm a Software Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
