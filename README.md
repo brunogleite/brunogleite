@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love lifting weights and curious about random stuff
 
 ## Tech Stack
@@ -43,10 +42,7 @@
 
 ## Currently Building 🛠️
 
-Launching Soon on Google PlayStore 👇
-
-<img align="left" alt="NextJS" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-
+Golang CLI application to kickstart your next NextJS with batteries included
 
 ---
 
