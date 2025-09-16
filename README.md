@@ -4,7 +4,6 @@
 ## I'm a Software Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love lifting weights and curious about random stuff
 
 ## Tech Stack
